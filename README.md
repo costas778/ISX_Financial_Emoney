@@ -15,8 +15,8 @@ python3 ./app4.py
 http://127.0.0.1:5000
 
 #Authentication
-user
-password
+Username user
+password password
 
 
 
